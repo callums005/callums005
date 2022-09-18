@@ -24,7 +24,6 @@ Plug 'https://github.com/preservim/nerdtree'
 Plug 'https://github.com/tpope/vim-surround'
 Plug 'https://github.com/tpope/vim-commentary'
 Plug 'https://github.com/ap/vim-css-color'
-" Plug 'https://github.com/rafi/awesome-vim-colorschemes'
 Plug 'https://github.com/drewtempelmeyer/palenight.vim'
 Plug 'https://github.com/ryanoasis/vim-devicons'
 Plug 'https://github.com/tc50cal/vim-terminal'
@@ -42,14 +41,12 @@ nnoremap <c-z> <nop>
 :set nobackup
 :set nowritebackup
 
-
-
-" :CocInstall coc-python
-
 nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-e> :NERDTreeToggle<CR>
 nnoremap <C-t> :TerminalSplit bash<CR>
+nnoremap <C-d> :CocList diagnostics<CR>
+nnoremap <F7> :CocList outline<CR>
 nmap <F8> :TagbarToggle<CR>
 
 :set completeopt -=preview
