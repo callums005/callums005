@@ -48,8 +48,8 @@ nnoremap <c-z> <nop>
 
 nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-
+nnoremap <C-e> :NERDTreeToggle<CR>
+nnoremap <C-t> :TerminalSplit bash<CR>
 nmap <F8> :TagbarToggle<CR>
 
 :set completeopt -=preview
