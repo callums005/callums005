@@ -5,8 +5,24 @@
 # Projects
 
 ## TimeManager
-[Project Link](https://github.com/callums005/TimeManager)<br />
+[Github Project Link](https://github.com/callums005/TimeManager)<br />
 This is a quite simple program built using the MS C# Console class.
+
+## PlagueOfTheUndead
+[Github Project Link](https://github.com/callums005/PlagueOfTheUndead)<br />
+This project was created for my Computer Games Design and Development project in 2021.
+
+## JavaLang
+[Github Project Link](https://github.com/callums005/JavaLang)<br />
+After watching a few youtube videos on programming languages, I decided to create a very simple interperater for a custom programming language.
+
+## Unity <-> Arduino Communication 
+[Github Project Link](https://github.com/callums005/unity-arduino-communication)<br />
+After wanting to create a custom controller for a flight-simulator I stumbled across the idea of using an arduino to communicate between unity and the micro-controller. I found a few solutions however none of them worked for me, so I decided to write my own script to take input from the arduino and send data from unity to the arduino using the IO.Ports functionallity within C#.
+
+## Wordle Clone
+[Github Project Link](https://github.com/callums005/WordleClone)<br />
+I decided to have my first crack at reverse engineering, recreating the wordle game.
 
 ## Links
 - [My Website](https://callums005.net)
