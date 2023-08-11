@@ -5,7 +5,7 @@
 # Projects
 
 ## TimeManager
-[Project Link](https://github.com/callums005/TimeManager)
+[Project Link](https://github.com/callums005/TimeManager)<br />
 This is a quite simple program built using the MS C# Console class.
 
 ## Links
