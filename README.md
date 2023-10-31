@@ -4,6 +4,10 @@
 
 # Projects
 
+## Stirling Engine
+[Github Project Link](https://github.com/callums005/StirlingEngine)<br />
+This is the start of a custom Game Engine.
+
 ## TimeManager
 [Github Project Link](https://github.com/callums005/TimeManager)<br />
 This is a quite simple program built using the MS C# Console class.
