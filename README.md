@@ -1,4 +1,4 @@
-# Welcome to CD73's GitHub.
+# CallumS005 Github.
 
 ![callums005's profile picture](https://avatars.githubusercontent.com/u/59845571?s=400&u=50d0164862bc1167a8573b440b12c25beec7feaa&v=4)
 
@@ -29,5 +29,6 @@ After wanting to create a custom controller for a flight-simulator I stumbled ac
 I decided to have my first crack at reverse engineering, recreating the wordle game.
 
 ## Links
-- [My Website](https://callums005.net)
+- [Website](https://callumstevenson.net)
+- [Azure DevOps](https://dev.azure.com/CallumStevenson/)
 - [GitLab](https://gitlab.com/CallumS005)
